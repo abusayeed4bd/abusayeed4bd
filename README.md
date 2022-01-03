@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Abu Sayeed
+## Hi there 👋, my name is Abu Sayeed
 #### I am a web developer
-<a href="https://ibb.co/PMfmQNs"><img src="https://i.ibb.co/5kfMF6X/Abu-Sayeed-Muhammad-Ibrahim-1280-x-540-px.jpg" alt="Abu-Sayeed-Muhammad-Ibrahim-1280-x-540-px" border="0"></a>
+
 
 
 Skills:  REACT / JS / HTML / CSS
