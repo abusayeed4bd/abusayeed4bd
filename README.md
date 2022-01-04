@@ -5,7 +5,7 @@
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on HTML and CSS project 
+- 🔭 I’m currently working on HTML, CSS and javascript project 
 - 🌱 I’m currently learning MERN stack web development 
 - 💬 Ask me about web development 
 - 📫 How to reach me: abusayeed4bd@gmail.com 
