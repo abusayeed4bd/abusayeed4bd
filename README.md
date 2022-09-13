@@ -1,12 +1,12 @@
 ## Hi there 👋, my name is Abu Sayeed
-#### I am a web developer
+#### I am a React js developer
 
 
 
 Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on HTML, CSS and javascript project 
-- 🌱 I’m currently learning MERN stack web development 
+- 🔭 I’m currently working on ReactJS project 
+- 🌱 I’m currently learning ReduxJS
 - 💬 Ask me about web development 
 - 📫 How to reach me: abusayeed4bd@gmail.com 
 
